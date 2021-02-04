@@ -1,8 +1,8 @@
 ﻿/***********************************************************************************************
  * Übungsnr:        09                                     
  * Programmname:    Turm                                  
- * Autor:           Michael Bucek  
- * Klasse:          1CHIF
+ * Autor:           karlof002  
+ * Klasse:          1BHIF
  * Datum:           11.11.2013                               
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
